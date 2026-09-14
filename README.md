@@ -8,7 +8,7 @@ This project builds a small relational data warehouse in Snowflake from three so
 
 ## Data
 
-|-----------------|-----|-----------|
+
 | File            | Rows| Role      |
 |-----------------|-----|-----------|
 | `customers.csv` | 50  | Dimension |
